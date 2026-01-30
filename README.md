@@ -24,18 +24,12 @@ i made this project to better understand how web servers actually work behind th
 
 make sure you have `gcc` installed.
 
-using make:
-
-make
-
-or compile manually:
-
-gcc main.c -o webserver
+<pre><code>gcc main.c -o webserver</code></pre>
 
 ## running the server
 
-./webserver
 
+<pre><code>./webserver</code></pre>
 by default, the server runs on:
 
 http://localhost:8080
